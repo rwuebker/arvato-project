@@ -3,6 +3,7 @@
 The report (report.pdf) outlines the steps taken in this project. There are two main parts:
   1. Market Segmentation: The notebook for this is "Market Segmentation Final.ipynb"
   2. Prediction. The prediction notebooks are the following and progress in this order:
+
     1. Initial_Prediction.ipynb
     2. SMOTE_Experimentation.ipynb
     3. Feature_Selection.ipynb
